@@ -66,9 +66,9 @@ Clone or download the repository to your local machine.
      - processed/: Beautified/minified files (if kept).
 
 4. **Build .exe** (Optional):
-   - Install: pip install pyinstaller
-   - Run: pyinstaller --onefile --add-data "masyde.jpeg;." --name Masyde-ws Masyde-ws.py
-   - Find executable in: dist/Masyde-ws.exe
+   - Make sure you have python installed!
+   - Run: build.bat
+   - Find executable in: build/
 
 ## Configuration
 
