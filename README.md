@@ -1,3 +1,5 @@
+__We are sorry for any errors with the code yet, we will give the working version without errors in just few days!__
+
 # Masyde Web Stealer
 
 Masyde Web Stealer is a powerful, user-friendly tool to download and process entire websites for offline use or analysis. With a sleek GUI, customizable crawling options, and robust file processing, it grabs HTML, CSS, JavaScript, images, and more, then beautifies or minifies them for your needs. Built with Python, it’s open-source under the MIT License, ready for developers, researchers, or anyone curious about web scraping done right.
